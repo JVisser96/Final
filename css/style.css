@@ -31,6 +31,8 @@ html,body {
  	width:100%;
  	overflow: hidden;
 	background-color: gray;
+    background-image: url(../img/MainBack.png);
+    background-repeat: repeat;
 }
 
 h1,h2,h3,h4,h5,h6 {
